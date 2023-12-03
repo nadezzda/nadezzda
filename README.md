@@ -30,6 +30,9 @@ I'm passionate about crafting immersive and user-friendly web experiences. My mi
 <img width="41.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nadezzda&theme=tokyonight&layout=compact&langs_count=8" />
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=nadezzda" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadezzda" />
+</p>
 
 ## Let's connect and build the future together! 
 <p>
