@@ -4,7 +4,9 @@ Welcome to my GitHub space! I'm Nadiia, a Front-End developer hailing from the b
 
 ## About Me 🚀
 
-I'm passionate about crafting immersive and user-friendly web experiences. My mission is to turn beautiful designs into functional and interactive websites.
+I'm a Frontend Developer with a little over a year of experience, skilled at solving problems independently and always eager to learn new things. Working in startup environments has taught me to adapt quickly and tackle challenges head-on.
+
+My experience in startups has given me valuable skills like agility, problem-solving, and a constant drive to stay updated with the latest trends. I'm excited about developing solutions that make a difference and look forward to contributing to innovative projects.
 
 ## Skills 🛠️
 <div style='display: flex; align-items: center;'>
